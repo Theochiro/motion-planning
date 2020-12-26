@@ -1,7 +1,7 @@
 # Motion-planning
 Convex Optimization for motion planning, reproduction of the paper "Experimental Study on Optimal Motion Planning of Wheeled Mobile Robot Using Convex Optimization and Receding Horizon Concept"
 # Minimizing Trajectory Length
-<img src="Minimizinglength.gif" width="600" height="400" />
+![](Minimizinglength.gif)
 
 # Minimizing Traversal Time
-<img src="Minimizingtime.gif" width="600" height="400" />
+![](Minimizingtime.gif)
