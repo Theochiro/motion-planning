@@ -4,4 +4,4 @@ Convex Optimization for motion planning, reproduction of the paper "Experimental
 ![](Minimizinglength.gif)
 
 # Minimizing Traversal Time
-![](Minimizinglength.gif)
+![](Minimizingtime.gif)
